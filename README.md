@@ -9,9 +9,9 @@ root/
 
 -- data/
 
-  -- transaction.csv
+--  -- transaction.csv
 
-  -- customer.csv
+--  -- customer.csv
 
 -- CustomerIntelligence.ipynb
 
